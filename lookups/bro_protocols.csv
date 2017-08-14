@@ -1,0 +1,9 @@
+sourcetype,transport,protocol
+bro_ssh,tcp,
+bro_ftp,tcp,
+bro_smtp,tcp,smtp
+bro_ssl,tcp,
+bro_smtp_entities,tcp,
+bro_http,tcp,
+bro_dhcp,udp,
+bro_conn,tcp,
