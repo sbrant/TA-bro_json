@@ -14,3 +14,33 @@ modtime = 1466376560.343276000
 [app/install/install_source_checksum]
 version = 6.6.2
 modtime = 1502410804.679501000
+
+[eventtypes/bro_files_et]
+version = 6.6.3
+modtime = 1504329041.735908000
+
+[tags/eventtype%3Dbro_files_et]
+version = 6.6.3
+modtime = 1504329041.919449000
+
+[eventtypes/bro_ssl_et]
+version = 6.6.3
+modtime = 1504329052.974201000
+
+[tags/eventtype%3Dbro_ssl_et]
+version = 6.6.3
+modtime = 1504329053.160429000
+
+[eventtypes/bro_x509_et]
+version = 6.6.3
+modtime = 1504329061.479299000
+
+[tags/eventtype%3Dbro_x509_et]
+version = 6.6.3
+modtime = 1504329061.601249000
+
+[]
+access = read : [ * ], write : [ admin, power ]
+export = system
+version = 6.6.3
+modtime = 1504329648.027288000
